@@ -1,0 +1,63 @@
+DANH SÁCH CÁC THUỘC TÍNH DỮ LIỆU THU THẬP TỪ TIKTOK EXPLORE API
+================================================================================
+
+Dưới đây là chi tiết các trường dữ liệu thu thập được theo thời gian thực (Real-time) từ API Explore của TikTok (đã kiểm tra và lưu trữ trong file sample_item.json và hệ thống lưu trữ raw JSON).
+
+1. THÔNG TIN CƠ BẢN VỀ VIDEO (VIDEO CORE INFO)
+--------------------------------------------------------------------------------
+- id (String): ID định danh duy nhất của video trên TikTok.
+- desc (String): Caption/Mô tả video chứa nội dung văn bản và các hashtags (#).
+- createTime (Integer): Thời gian đăng video (định dạng Unix Timestamp).
+- CategoryType (Integer): ID của danh mục nội dung tương ứng trên Explore (All, Comedy, Sports, v.v.).
+- _category_name (String): Tên danh mục đã được chuẩn hóa (ví dụ: "Sports", "Comedy").
+- _category_id (Integer): ID danh mục tương ứng.
+
+2. CHỈ SỐ TƯƠNG TÁC THỜI GIAN THỰC (STATS)
+--------------------------------------------------------------------------------
+- stats.playCount (Integer): Tổng lượt xem video (Views) tại thời điểm cào.
+- stats.diggCount (Integer): Tổng số lượt thích (Likes).
+- stats.commentCount (Integer): Tổng số lượt bình luận (Comments).
+- stats.shareCount (Integer): Tổng số lượt chia sẻ (Shares).
+- stats.collectCount (Integer): Tổng số lượt lưu/bookmark video (Saves).
+
+3. THÔNG TIN NHÀ SÁNG TẠO (AUTHOR INFO)
+--------------------------------------------------------------------------------
+- author.id (String): ID định danh duy nhất của creator.
+- author.uniqueId (String): Username của creator (ví dụ: lamine.yamal).
+- author.nickname (String): Tên hiển thị (Display Name) của creator.
+- author.verified (Boolean): Trạng thái xác minh tài khoản (Tích xanh - True/False).
+- author.avatarThumb / avatarMedium / avatarLarger (String): Các liên kết ảnh đại diện với nhiều kích cỡ.
+- authorStats.followerCount (Integer): Tổng số người theo dõi của creator.
+- authorStats.heartCount (Integer): Tổng số lượt tim creator đã nhận trên kênh.
+- authorStats.videoCount (Integer): Tổng số video đã đăng tải của creator.
+
+4. THÔNG TIN CHI TIẾT TỆP VIDEO (VIDEO METADATA)
+--------------------------------------------------------------------------------
+- video.duration (Integer): Thời lượng video (tính bằng giây).
+- video.width (Integer): Chiều rộng khung hình video (Pixel).
+- video.height (Integer): Chiều cao khung hình video (Pixel).
+- video.ratio (String): Độ phân giải phân loại (ví dụ: 540p, 720p, 1080p).
+- video.definition (String): Định nghĩa chất lượng video.
+- video.cover / originCover / dynamicCover (String): Các liên kết ảnh bìa (tĩnh và động).
+- video.playAddr (String): Link phát video trực tiếp (Streaming URL).
+- video.downloadAddr (String): Link tải tệp tin video MP4 gốc trực tiếp.
+- video.size (Integer): Dung lượng file video (Bytes).
+
+5. THÔNG TIN NHẠC NỀN / ÂM THANH (MUSIC INFO)
+--------------------------------------------------------------------------------
+- music.id (String): ID định danh của âm thanh/bài nhạc.
+- music.title (String): Tên bài nhạc/âm thanh.
+- music.authorName (String): Tên nghệ sĩ hoặc tên chủ tài khoản tạo âm thanh gốc.
+- music.duration (Integer): Thời lượng tệp âm thanh (giây).
+- music.playUrl (String): Link stream tệp âm thanh (.mp3).
+- music.original (Boolean): Xác định âm thanh gốc tự tạo (True/False).
+- music.coverThumb / coverMedium / coverLarge (String): Link ảnh bìa album/âm thanh.
+
+6. HASHTAGS & THƯ VIỆN HIỆU ỨNG (HASHTAGS & EFFECTS)
+--------------------------------------------------------------------------------
+- challenges (Array): Danh sách các hashtags được gắn vào video gồm:
+  + id: ID định danh hashtag.
+  + title: Tên hashtag (ví dụ: "fifaworldcup").
+- effectStickers (Array): Danh sách các hiệu ứng, filter hoặc nhãn dán sử dụng trong video:
+  + ID: ID của sticker/hiệu ứng.
+  + name: Tên sticker/hiệu ứng (ví dụ: "Star Player Name").
