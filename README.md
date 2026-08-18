@@ -196,6 +196,27 @@ Open [http://localhost:8501](http://localhost:8501).
 
 ---
 
+## 🤖 AI-Assisted Development Workflow
+
+This project was built using a structured **AI-assisted software engineering (AISE)** methodology, leveraging **Claude Code** and **Gemini Code Assist** as collaborative pair programmers.
+
+```
++------------------------+      +--------------------------+      +-------------------------+
+|  1. Write Markdown     | ---> |  2. Feed Spec to AI      | ---> |  3. Code Review &       |
+|  Specifications &      |      |  (Claude Code / Gemini)  |      |  dbt/Python Validation  |
+|  Schema Requirements   |      |  Iterative Code Gen      |      |  (Refine Edge Cases)    |
++------------------------+      +--------------------------+      +-------------------------+
+```
+
+### Key Practices Applied:
+1. **Markdown-First Specifications**: Instead of writing raw code directly, detailed requirements and schema mappings (like target tables, data types, and transformation rules) were defined in Markdown files first to guide the AI context.
+2. **Iterative Schema & Prompt Engineering**: Used precise system prompts to design the 3-layer dbt models (Staging, Marts) and SQL CTE logic for de-duplicating TikTok JSONB records.
+3. **Manual Validation & Testing**: Every AI-generated component (crawling scripts, Streamlit charts, and dbt models) went through human code review, linting, and local execution/validation tests.
+
+For detailed guidelines, prompt patterns, and validation commands used by the AI assistant, see the [CLAUDE.md](CLAUDE.md) file in the root directory.
+
+---
+
 ## ⚙️ Environment Variables
 
 | Variable               | Default                   | Description             |
