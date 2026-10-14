@@ -1,0 +1,45 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Test artifacts
+.pytest_cache/
+htmlcov/
+.coverage
+
+# dbt compiled output
+dbt_project/target/
+dbt_project/logs/
+
+# Local raw data snapshots (large, bind-mounted at runtime)
+data/
+
+# Git
+.git/
+.gitignore
+
+# Docker
+.dockerignore
+
+# IDE / Editor
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs
+*.log
+
+# Screenshots
+*.png
+*.jpg
+*.mp4
+
+# Airflow brain / docs
+docs/

@@ -1,0 +1,770 @@
+{
+  "crawled_at": "2026-10-14 09:54:08",
+  "date": "2026-10-14",
+  "total_rejected": 3,
+  "rejected_list": [
+    {
+      "item_id": "7690823530509847816",
+      "error": "1 validation error for TikTokItemModel\nvideo.playAddr\n  String should have at least 1 character [type=string_too_short, input_value='', input_type=str]\n    For further information visit https://errors.pydantic.dev/2.13/v/string_too_short",
+      "rejected_at": "2026-10-14 09:54:11",
+      "raw_record": {
+        "AIGCDescription": "",
+        "AnchorTypes": [
+          28,
+          33
+        ],
+        "CategoryType": 105,
+        "IsHDBitrate": false,
+        "ShowAIGC": true,
+        "anchors": [
+          {
+            "id": "1825326449",
+            "keyword": "Lily Lipstick U6a",
+            "type": 28
+          }
+        ],
+        "author": {
+          "avatarLarger": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/21477bdc336c80afdfabb02646c703cb~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=3c9c2988&x-expires=1792116000&x-signature=I6i1OK3d4n6MxMcNfRAWUaDGv8A%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my3",
+          "avatarMedium": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/21477bdc336c80afdfabb02646c703cb~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=c9cde267&x-expires=1792116000&x-signature=47v%2BAolKit62Qz6%2FfkpE5cQHGAw%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my3",
+          "avatarThumb": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/21477bdc336c80afdfabb02646c703cb~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=c02657fd&x-expires=1792116000&x-signature=iYU6BWk5iRxuPLaWvgANI%2FhokUI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my3",
+          "commentSetting": 0,
+          "downloadSetting": 3,
+          "duetSetting": 0,
+          "ftc": false,
+          "id": "6764314630493799425",
+          "isADVirtual": false,
+          "isEmbedBanned": false,
+          "nickname": "Chị giáo m52 👩🏼‍🏫 🫶🏻🌷",
+          "openFavorite": false,
+          "privateAccount": false,
+          "relation": 0,
+          "secUid": "MS4wLjABAAAAB8B0oeXLg5AwvE0YNciDZwcKkvamKz1kJnMzWP5f7-Df2hWHzLBnG95b7-OG_8xa",
+          "secret": false,
+          "shortDramaCreator": {},
+          "signature": "",
+          "stitchSetting": 0,
+          "uniqueId": "_thaoo08",
+          "verified": false
+        },
+        "authorStats": {
+          "diggCount": 6038,
+          "followerCount": 13400,
+          "followingCount": 183,
+          "friendCount": 0,
+          "heart": 294600,
+          "heartCount": 294600,
+          "videoCount": 138
+        },
+        "authorStatsV2": {
+          "diggCount": "6038",
+          "followerCount": "13400",
+          "followingCount": "183",
+          "friendCount": "0",
+          "heart": "294600",
+          "heartCount": "294600",
+          "videoCount": "138"
+        },
+        "backendSourceEventTracking": "",
+        "challenges": [
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "1604496473403393",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "xuhuong"
+          },
+          {
+            "coverLarger": "https://p16-common-sign.tiktokcdn.com/musically-maliva-obj/8e4d8102460a60717c89acc2d6367a16.png~tplv-tiktokx-origin.image?dr=14566&x-expires=1791964800&x-signature=LoDTKuv9voLprZg6VuSFeU3oX%2F0%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my2",
+            "coverMedium": "https://p16-common-sign.tiktokcdn.com/musically-maliva-obj/8e4d8102460a60717c89acc2d6367a16.png~tplv-tiktokx-origin.image?dr=14566&x-expires=1791964800&x-signature=LoDTKuv9voLprZg6VuSFeU3oX%2F0%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my2",
+            "coverThumb": "https://p16-common-sign.tiktokcdn.com/musically-maliva-obj/8e4d8102460a60717c89acc2d6367a16.png~tplv-tiktokx-origin.image?dr=14566&x-expires=1791964800&x-signature=LoDTKuv9voLprZg6VuSFeU3oX%2F0%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my2",
+            "desc": "¡descubre las canciones en tendencia! 🔥➡️ https://bit.ly/TendenciasTikTok_LATAM",
+            "id": "20884",
+            "profileLarger": "https://p16-common-sign.tiktokcdn.com/musically-maliva-obj/4321dd2ed3acc737461c4254f0c55add.png~tplv-tiktokx-origin.image?dr=14566&x-expires=1791964800&x-signature=HzrvA45xx1vdWQU2vukquNi2lbY%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my2",
+            "profileMedium": "https://p16-common-sign.tiktokcdn.com/musically-maliva-obj/4321dd2ed3acc737461c4254f0c55add.png~tplv-tiktokx-origin.image?dr=14566&x-expires=1791964800&x-signature=HzrvA45xx1vdWQU2vukquNi2lbY%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my2",
+            "profileThumb": "https://p16-common-sign.tiktokcdn.com/musically-maliva-obj/4321dd2ed3acc737461c4254f0c55add.png~tplv-tiktokx-origin.image?dr=14566&x-expires=1791964800&x-signature=HzrvA45xx1vdWQU2vukquNi2lbY%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my2",
+            "title": "viral"
+          }
+        ],
+        "collected": false,
+        "contents": [
+          {
+            "desc": "Cô cũng cố đá trượt rồi mà nó lạ lắm…"
+          },
+          {
+            "desc": "#xuhuong #viral ",
+            "textExtra": [
+              {
+                "awemeId": "",
+                "end": 8,
+                "hashtagName": "xuhuong",
+                "isCommerce": false,
+                "start": 0,
+                "subType": 0,
+                "type": 1
+              },
+              {
+                "awemeId": "",
+                "end": 15,
+                "hashtagName": "viral",
+                "isCommerce": false,
+                "start": 9,
+                "subType": 0,
+                "type": 1
+              }
+            ]
+          }
+        ],
+        "createTime": 1790659409,
+        "desc": "Cô cũng cố đá trượt rồi mà nó lạ lắm… #xuhuong #viral ",
+        "digged": false,
+        "diversificationId": 10015,
+        "duetDisplay": 0,
+        "duetEnabled": true,
+        "effectStickers": [
+          {
+            "ID": "1825326449",
+            "name": "Lily Lipstick U6a",
+            "stickerStats": {
+              "useCount": 0
+            }
+          },
+          {
+            "ID": "614319057156",
+            "name": "Fillter xinh",
+            "stickerStats": {
+              "useCount": 0
+            }
+          }
+        ],
+        "forFriend": false,
+        "id": "7690823530509847816",
+        "isAd": false,
+        "isECVideo": 1,
+        "isProhibited": false,
+        "isReviewing": false,
+        "itemCommentStatus": 0,
+        "item_control": {
+          "can_repost": true
+        },
+        "music": {
+          "authorName": "THCS THIỆU NGỌC",
+          "coverLarge": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/4d95d4e2a632be44bc8d0346c5c6c743~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=bd456dca&x-expires=1792116000&x-signature=5Fq4cRPrxJd%2BuuRiZGyvZ6Fk658%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my3",
+          "coverMedium": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/4d95d4e2a632be44bc8d0346c5c6c743~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=744295a3&x-expires=1792116000&x-signature=BGrpPtKKpji0mfV1YFv7jsA4fQI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my3",
+          "coverThumb": "https://p19-common-sign.tiktokcdn.com/tos-alisg-avt-0068/4d95d4e2a632be44bc8d0346c5c6c743~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=03a5e7d3&x-expires=1792116000&x-signature=cPahq%2BzJhVVR5d6Y%2FaWBNIVQgaM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my3",
+          "duration": 8,
+          "id": "7688348995660745490",
+          "isCopyrighted": true,
+          "is_commerce_music": true,
+          "is_unlimited_music": false,
+          "original": true,
+          "playUrl": "https://v16m.tiktokcdn.com/f41e9c452761cdf341843fd61d92e8cf/6ad04025/video/tos/alisg/tos-alisg-v-27dcd7/ooCAVKO1EECVEvcpyYailyBUK5iPAArkrAgAA/?a=1180&bti=ODszNWYuMDE6&&bt=125&ft=GcDrcInz7Th7l7OGXq8Zmo&mime_type=audio_mpeg&rc=ajdrNm85cmU7ZDMzODU8NEBpajdrNm85cmU7ZDMzODU8NEBoXm9tMmRrLm1hLS1kMS1zYSNoXm9tMmRrLm1hLS1kMS1zcw%3D%3D&vvpl=1&l=20261014105317344C6B3BC13122012138&btag=e00070000&sp_exp=hash_v0",
+          "private": false,
+          "shoot_duration": 8,
+          "title": "âm thanh gốc - THCS THIỆU NGỌC",
+          "tt2dsp": {}
+        },
+        "officalItem": false,
+        "originalItem": false,
+        "penaltyContext": {
+          "arb_content_safety_status": 102,
+          "display_penalty_type": 0,
+          "display_policy": 0,
+          "display_ui_type": 0,
+          "ec_global_verdict": 1,
+          "reviewed": 1,
+          "status": 102,
+          "tns_status": 102,
+          "video_status": 10
+        },
+        "privateItem": false,
+        "secret": false,
+        "shareEnabled": true,
+        "stats": {
+          "collectCount": 7357,
+          "commentCount": 2633,
+          "diggCount": 184100,
+          "playCount": 4300000,
+          "shareCount": 148800,
+          "repostCount": 0
+        },
+        "statsV2": {
+          "collectCount": "7357",
+          "commentCount": "2633",
+          "diggCount": "184100",
+          "playCount": "4300000",
+          "repostCount": "0",
+          "shareCount": "148800"
+        },
+        "stickersOnItem": [
+          {
+            "stickerText": [
+              "👩🏼‍🏫: Ném chai nước đứng thẳng cô cho lớp về sớm "
+            ],
+            "stickerType": 4
+          }
+        ],
+        "stitchDisplay": 0,
+        "stitchEnabled": true,
+        "textExtra": [
+          {
+            "awemeId": "",
+            "end": 46,
+            "hashtagName": "xuhuong",
+            "isCommerce": false,
+            "start": 38,
+            "subType": 0,
+            "type": 1
+          },
+          {
+            "awemeId": "",
+            "end": 53,
+            "hashtagName": "viral",
+            "isCommerce": false,
+            "start": 47,
+            "subType": 0,
+            "type": 1
+          }
+        ],
+        "textLanguage": "vi",
+        "textTranslatable": true,
+        "video": {
+          "VQScore": "70.55",
+          "bitrate": 946811,
+          "claInfo": {
+            "enableAutoCaption": true,
+            "hasOriginalAudio": false,
+            "noCaptionReason": 3
+          },
+          "codecType": "h264",
+          "cover": "https://p19-common-sign.tiktokcdn.com/tos-alisg-p-0037/okiXuInIBtgWaAS1wif1ALCBZijFD1AC9ydIv7~tplv-tiktokx-origin.image?dr=14575&x-expires=1792116000&x-signature=xzRymto1cb1cCcCZPcdF7aNf3n0%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my2",
+          "definition": "540p",
+          "duration": 9,
+          "dynamicCover": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/owiIt5I7y6XFtxBZAwfdijAuBWI111JnAaX1SC~tplv-tiktokx-origin.image?dr=14575&x-expires=1792116000&x-signature=2VrGXrEXbOMNCe%2BYQ8PX3Z4UMnw%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my2",
+          "encodeUserTag": "",
+          "encodedType": "normal",
+          "format": "mp4",
+          "height": 1024,
+          "id": "7690823530509847816",
+          "originCover": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/o4yIBiwtIj1BZ1C1IA7C1uiUFXdrSAfayWAIWn~tplv-tiktokx-origin.image?dr=14575&x-expires=1792116000&x-signature=gEId59pPqGYmW5YvUMKissghKVI%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my2",
+          "playAddr": "",
+          "ratio": "540p",
+          "size": 1104692,
+          "videoID": "v1c044g50000datkmjvog65ihhdljleg",
+          "videoQuality": "normal",
+          "volumeInfo": {
+            "Loudness": -33.1,
+            "Peak": 0.06918
+          },
+          "width": 576,
+          "zoomCover": {
+            "240": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/okiXuInIBtgWaAS1wif1ALCBZijFD1AC9ydIv7~tplv-photomode-zoomcover:240:240.jpeg?dr=14555&x-expires=1792116000&x-signature=OVMlW07hLw1FZTPOAm2Fzya%2Fr2I%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my2&ftpl=1",
+            "480": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/okiXuInIBtgWaAS1wif1ALCBZijFD1AC9ydIv7~tplv-photomode-zoomcover:480:480.jpeg?dr=14555&x-expires=1792116000&x-signature=QvZKwfkZoHVze6B2A3ZvAAwpBvU%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my2&ftpl=1",
+            "720": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/okiXuInIBtgWaAS1wif1ALCBZijFD1AC9ydIv7~tplv-photomode-zoomcover:720:720.jpeg?dr=14555&x-expires=1792116000&x-signature=ZrcJJYh%2BqxJJRhXybEBpvP9uAX4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my2&ftpl=1",
+            "960": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/okiXuInIBtgWaAS1wif1ALCBZijFD1AC9ydIv7~tplv-photomode-zoomcover:960:960.jpeg?dr=14555&x-expires=1792116000&x-signature=nn6DPNuAEFc229PeUP7QR7Qjo1Y%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my2&ftpl=1"
+          }
+        },
+        "_category_name": "Singing & Dancing",
+        "_category_id": 120
+      }
+    },
+    {
+      "item_id": "7686099657188986132",
+      "error": "1 validation error for TikTokItemModel\nvideo.playAddr\n  String should have at least 1 character [type=string_too_short, input_value='', input_type=str]\n    For further information visit https://errors.pydantic.dev/2.13/v/string_too_short",
+      "rejected_at": "2026-10-14 09:54:11",
+      "raw_record": {
+        "AIGCDescription": "",
+        "AnchorTypes": [
+          54,
+          33
+        ],
+        "CategoryType": 120,
+        "IsHDBitrate": false,
+        "ShowAIGC": false,
+        "anchors": [
+          {
+            "description": "CapCut · Video Editor",
+            "extraInfo": {
+              "subtype": ""
+            },
+            "icon": {
+              "urlList": [
+                "https://p16-common-sign.tiktokcdn.com/tiktok-obj/capcut_logo_64px_bk.png~tplv-tiktokx-origin.image?dr=14566&x-expires=1791964800&x-signature=e%2FMcNlv%2FNLglyVlyn9gpm8PHEy0%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my2",
+                "https://p19-common-sign.tiktokcdn.com/tiktok-obj/capcut_logo_64px_bk.png~tplv-tiktokx-origin.image?dr=14566&x-expires=1791964800&x-signature=Ao1XeIkAA5Q8BJ%2B1rJZcU%2Fv66Yk%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my2",
+                "https://p16-common-sign.tiktokcdn.com/tiktok-obj/capcut_logo_64px_bk.png~tplv-tiktokx-origin.jpeg?dr=14566&x-expires=1791964800&x-signature=AEGape98kjzWis8Dt0T6jhwiw9w%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my2"
+              ]
+            },
+            "id": "0",
+            "keyword": "CapCut · Try this template",
+            "logExtra": "{\"anchor_id\":0,\"anchor_name\":\"CapCut · Try this template\",\"anchor_name_type\":\"template_0\",\"anchor_title_detail\":\"None\",\"anchor_type\":\"TT_CAPCUT\",\"anchor_type_level1\":\"template\",\"anchor_type_level2\":\"template_video\",\"capability_key\":\"none\",\"cc_template_pay_type\":0,\"ccep_vip\":0,\"if_device_language\":\"none\",\"if_race_trigger\":0,\"is_two_line\":0,\"maker_source\":\"\",\"outreach_content\":\"original\",\"outreach_extra_info\":\"{\\\"group_id\\\":\\\"7686099657188986132\\\",\\\"outreach_content_type\\\":\\\"original\\\"}\",\"outreach_intention\":\"diversion\",\"outreach_key\":54,\"outreach_to_app_id\":\"3006\",\"outreach_type\":\"feed_anchor\",\"template_id\":\"7683825800272956692\",\"tutorial_id\":\"none\",\"viamaker_anchor_capability_key_weight\":1,\"viamaker_anchor_style_idx\":-1,\"viamaker_anchor_style_source\":3,\"video_source\":0,\"video_type_id\":2}",
+            "schema": "https://www.capcut.com/template-detail/7683825800272956692?channel=capcutpc_ttweb_anchor_template1&current_page=capcutpc_ttweb_anchor_template1&download_channel=capcutpc_ttweb_anchor_template1&enter_from=capcutpc_ttweb_anchor_template1&from_page=capcutpc_ttweb_anchor_template1&type=template&use_new_ui=0",
+            "thumbnail": {
+              "height": 64,
+              "urlList": [
+                "https://p16-common-sign.tiktokcdn.com/tiktok-obj/64x_Capcut3x.png~tplv-tiktokx-origin.image?dr=14566&x-expires=1791964800&x-signature=DqvA0A76mQhNYwWxVjyCrUwcQwk%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my2",
+                "https://p19-common-sign.tiktokcdn.com/tiktok-obj/64x_Capcut3x.png~tplv-tiktokx-origin.image?dr=14566&x-expires=1791964800&x-signature=K3c72tbP7wh7XFTPveA%2FcQRXbs8%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my2",
+                "https://p16-common-sign.tiktokcdn.com/tiktok-obj/64x_Capcut3x.png~tplv-tiktokx-origin.jpeg?dr=14566&x-expires=1791964800&x-signature=0Yt3sYIjWstX8IQF0vtxfEsR0XU%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my2"
+              ],
+              "width": 64
+            },
+            "type": 54
+          },
+          {
+            "extra": "[{\"keyword\":\"Bộ Quần Áo Thể Thao Unisex Sport Tập Thể Dục Tập Gym Mã A04 Chất Liệu Thun Lạnh Mềm Mịn Co Dãn Thoáng Mát\",\"id\":\"1730087193877777032\",\"type\":33,\"icon\":{\"uri\":\"tiktok-obj/6805474799129724943shopify.png\",\"url_list\":[\"https://p19-common.tiktokcdn.com/tiktok-obj/6805474799129724943shopify.png~tplv-tiktokx-origin.image?dr=14000\\u0026t=4d5b0474\\u0026ps=933b5bde\\u0026shp=57d7afb6\\u0026shcp=81f88b70\\u0026idc=my2\",\"https://p16-common.tiktokcdn.com/tiktok-obj/6805474799129724943shopify.png~tplv-tiktokx-origin.image?dr=14000\\u0026t=4d5b0474\\u0026ps=933b5bde\\u0026shp=57d7afb6\\u0026shcp=81f88b70\\u0026idc=my2\",\"https://p19-common.tiktokcdn.com/tiktok-obj/6805474799129724943shopify.png~tplv-tiktokx-origin.jpeg?dr=14000\\u0026t=4d5b0474\\u0026ps=933b5bde\\u0026shp=57d7afb6\\u0026shcp=81f88b70\\u0026idc=my2\"],\"width\":720,\"height\":720,\"url_prefix\":null},\"extra\":\"{\\\"product_id\\\":1730087193877777032,\\\"title\\\":\\\"Bộ Quần Áo Thể Thao Unisex Sport Tập Thể Dục Tập Gym Mã A04 Chất Liệu Thun Lạnh Mềm Mịn Co Dãn Thoáng Mát\\\",\\\"cover\\\":\\\"tos-alisg-i-aphluv4xwc-sg/7dc1f6392edb4229be35006855c74e1e\\\",\\\"img\\\":[\\\"tos-alisg-i-aphluv4xwc-sg/7dc1f6392edb4229be35006855c74e1e\\\",\\\"tos-maliva-i-o3syd03w52-us/c8c5533f85c04b4899d8fbcafdb62701\\\",\\\"tos-maliva-i-o3syd03w52-us/cd3ecb93f7e24797aab5ee610233b78b\\\",\\\"tos-maliva-i-o3syd03w52-us/e0931317dcde4a61b9dd4ed78ee7d46a\\\",\\\"tos-maliva-i-o3syd03w52-us/6a7acdff243b4a56a0311d3395821530\\\",\\\"tos-maliva-i-o3syd03w52-us/b118a7a3fd1b466480041c76cfa66d6e\\\",\\\"tos-maliva-i-o3syd03w52-us/bd1f5e8838a143689e6462fd45af98a4\\\",\\\"tos-maliva-i-o3syd03w52-us/12b78486293a46119089504d013fa1b9\\\"],\\\"market_price\\\":0,\\\"currency\\\":\\\"VND\\\",\\\"detail_url\\\":\\\"https://oec-api.tiktokv.com/view/fe_tiktok_ecommerce_upgrade/index.html?enter_from=video\\\\u0026hide_nav_bar=1\\\\u0026view_background_color_auto_dark=1\\\\u0026should_full_screen=1\\\",\\\"product_status\\\":90,\\\"addition_id\\\":0,\\\"elastic_title\\\":\\\"\\\",\\\"elastic_img\\\":null,\\\"in_shop\\\":false,\\\"platform\\\":5,\\\"extra\\\":{\\\"mix_product_type\\\":\\\"1\\\"},\\\"cover_url\\\":\\\"https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/7dc1f6392edb4229be35006855c74e1e~tplv-aphluv4xwc-resize-jpeg:800:800.jpeg?dr=15584\\\\u0026t=555f072d\\\\u0026ps=933b5bde\\\\u0026shp=615b9c44\\\\u0026shcp=57d7afb6\\\\u0026idc=my2\\\\u0026from=1633393732\\\",\\\"img_url\\\":[\\\"https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/7dc1f6392edb4229be35006855c74e1e~tplv-aphluv4xwc-resize-jpeg:800:800.jpeg?dr=15584\\\\u0026t=555f072d\\\\u0026ps=933b5bde\\\\u0026shp=615b9c44\\\\u0026shcp=57d7afb6\\\\u0026idc=my2\\\\u0026from=1633393732\\\"],\\\"elastic_img_url\\\":null,\\\"final_url\\\":\\\"\\\",\\\"source\\\":\\\"TikTok Shop\\\",\\\"short_url\\\":\\\"\\\",\\\"seller_id\\\":7495188682940385928,\\\"need_preload\\\":false,\\\"load_method_type\\\":2,\\\"skus\\\":[{\\\"sku_id\\\":1730247620461890184,\\\"outer_sku_id\\\":\\\"\\\",\\\"outer_product_id\\\":\\\"\\\"},{\\\"sku_id\\\":1730247620461955720,\\\"outer_sku_id\\\":\\\"\\\",\\\"outer_product_id\\\":\\\"\\\"},{\\\"sku_id\\\":1730247620462021256,\\\"outer_sku_id\\\":\\\"\\\",\\\"outer_product_id\\\":\\\"\\\"},{\\\"sku_id\\\":1730247620462086792,\\\"outer_sku_id\\\":\\\"\\\",\\\"outer_product_id\\\":\\\"\\\"},{\\\"sku_id\\\":1730247620462152328,\\\"outer_sku_id\\\":\\\"\\\",\\\"outer_product_id\\\":\\\"\\\"},{\\\"sku_id\\\":1730247620462217864,\\\"outer_sku_id\\\":\\\"\\\",\\\"outer_product_id\\\":\\\"\\\"},{\\\"sku_id\\\":1730247620462283400,\\\"outer_sku_id\\\":\\\"\\\",\\\"outer_product_id\\\":\\\"\\\"},{\\\"sku_id\\\":1730247620462348936,\\\"outer_sku_id\\\":\\\"\\\",\\\"outer_product_id\\\":\\\"\\\"},{\\\"sku_id\\\":1730247620462414472,\\\"outer_sku_id\\\":\\\"\\\",\\\"outer_product_id\\\":\\\"\\\"},{\\\"sku_id\\\":1730247620462480008,\\\"outer_sku_id\\\":\\\"\\\",\\\"outer_product_id\\\":\\\"\\\"},{\\\"sku_id\\\":1730247620462545544,\\\"outer_sku_id\\\":\\\"\\\",\\\"outer_product_id\\\":\\\"\\\"},{\\\"sku_id\\\":1730247620462611080,\\\"outer_sku_id\\\":\\\"\\\",\\\"outer_product_id\\\":\\\"\\\"},{\\\"sku_id\\\":1730247620462676616,\\\"outer_sku_id\\\":\\\"\\\",\\\"outer_product_id\\\":\\\"\\\"},{\\\"sku_id\\\":1730247620462742152,\\\"outer_sku_id\\\":\\\"\\\",\\\"outer_product_id\\\":\\\"\\\"},{\\\"sku_id\\\":1730247620462807688,\\\"outer_sku_id\\\":\\\"\\\",\\\"outer_product_id\\\":\\\"\\\"}],\\\"is_platform_product\\\":false,\\\"categories\\\":[{\\\"category_id\\\":603014,\\\"category_name\\\":\\\"Thể thao \\\\u0026 Ngoài trời\\\",\\\"level\\\":1,\\\"is_leaf\\\":false,\\\"parent_id\\\":0,\\\"name_key\\\":\\\"magellan_603014\\\"},{\\\"category_id\\\":834568,\\\"category_name\\\":\\\"Đồ thể thao \\\\u0026 ngoài trời\\\",\\\"level\\\":2,\\\"is_leaf\\\":false,\\\"parent_id\\\":603014,\\\"name_key\\\":\\\"magellan_834568\\\"},{\\\"category_id\\\":603705,\\\"category_name\\\":\\\"Bộ quần áo thể thao\\\",\\\"level\\\":3,\\\"is_leaf\\\":true,\\\"parent_id\\\":834568,\\\"name_key\\\":\\\"magellan_603705\\\"}],\\\"price\\\":0,\\\"currency_format\\\":{\\\"currency_symbol\\\":\\\"?\\\",\\\"decimal_place\\\":2,\\\"decimal_symbol\\\":\\\".\\\",\\\"separator\\\":\\\",\\\",\\\"separator_index\\\":[3,6,9,12,15,18]},\\\"schema\\\":\\\"aweme://ec/pdp?biz_type=0\\\\u0026fullScreen=true\\\\u0026orderRequestParams=%7B%7D\\\\u0026requestParams=%7B%22product_id%22%3A%5B%221730087193877777032%22%5D%2C%22traffic_signature%22%3A%22%7B%5C%22scene%5C%22%3A%5C%22Default.video_pack%5C%22%7D%22%7D\\\\u0026visitReportParams=%7B%22chain_key%22%3A%22%7B%5C%22cck%5C%22%3A%5C%22kRmXJQmJswc%2FKJzXXLi0z4qHKUlo3wzWJm51va7apQbAPoU%2FKthvOXp8fCvLRQZN3x7rLAPWEBztwgreyEgWO7U4zHTWwwgId5gxNJTHI7YoeWvAj9qGdkdoY0I%3D%5C%22%2C%5C%22mck%5C%22%3A%5C%22K8AAAMkQ%2FQrUbvB1InXqh5%2BsdhHPMv2xz9NcoyPwYnnneOBZ%2B5thgu0lF0Dh%2FqHLtP3B1pSBIDEUkElMn9JC4SSVoq%2FB8v0NaI6%2Fwg%3D%3D%5C%22%2C%5C%22v%5C%22%3A1%7D%22%2C%22material_id%22%3A%221730087193877777032%22%2C%22material_type%22%3A1%2C%22seller_id%22%3A%227495188682940385928%22%7D\\\",\\\"gyl_schema\\\":\\\"aweme://lynxview?use_spark=1\\\\u0026enable_lynx_builder_opt=1\\\\u0026opt_title=0\\\\u0026hide_loading=1\\\\u0026screen_orientation=auto\\\\u0026url=https%3A%2F%2Flf16-gecko-source.tiktokcdn.com%2Fobj%2Fbyte-gurd-source-sg%2Ftiktok%2Ffe%2Flive%2Ftiktok_ecom_rec_pages%2Fvideo_anchor_more_ymal%2Ftemplate.js\\\\u0026enter_from=homepage_hot\\\\u0026previous_page=video\\\\u0026traffic_source=2\\\\u0026traffic_source_list=%5B2%5D\\\\u0026context_video_id=7686099657188986132\\\\u0026author_id=0\\\\u0026context_product_info_list=%5B%7B%22chain_key%22%3A%22%7B%5C%22cck%5C%22%3A%5C%22kRmXJQmJswc%2FKJzXXLi0z4qHKUlo3wzWJm51va7apQbAPoU%2FKthvOXp8fCvLRQZN3x7rLAPWEBztwgreyEgWO7U4zHTWwwgId5gxNJTHI7YoeWvAj9qGdkdoY0I%3D%5C%22%2C%5C%22mck%5C%22%3A%5C%22K8AAAMkQ%2FQrUbvB1InXqh5%2BsdhHPMv2xz9NcoyPwYnnneOBZ%2B5thgu0lF0Dh%2FqHLtP3B1pSBIDEUkElMn9JC4SSVoq%2FB8v0NaI6%2Fwg%3D%3D%5C%22%2C%5C%22v%5C%22%3A1%7D%22%2C%22id%22%3A%221730087193877777032%22%2C%22seller_id%22%3A%227495188682940385928%22%7D%5D\\\",\\\"source_from\\\":2,\\\"biz_type\\\":0,\\\"seo_url\\\":\\\"https://shop.tiktok.com/vn/pdp/1730087193877777032?source=anchor\\\",\\\"bcm_standard_track\\\":null,\\\"client_payload_map\\\":\\\"{\\\\\\\"media_mode\\\\\\\":\\\\\\\"video\\\\\\\",\\\\\\\"video_duration_ms\\\\\\\":13027,\\\\\\\"aweme_payload_extraction_paths\\\\\\\":[\\\\\\\"image_post_info.images[*].display_image.uri\\\\\\\"]}\\\"}\",\"actions\":null,\"component_key\":\"anchor_shop\",\"anchor_strong\":null}]",
+            "extraInfo": {
+              "subtype": ""
+            },
+            "icon": {
+              "urlList": [
+                "https://p16-common-sign.tiktokcdn.com/tiktok-obj/capcut_logo_64px_bk.png~tplv-tiktokx-origin.image?dr=14566&x-expires=1791964800&x-signature=e%2FMcNlv%2FNLglyVlyn9gpm8PHEy0%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my2",
+                "https://p19-common-sign.tiktokcdn.com/tiktok-obj/capcut_logo_64px_bk.png~tplv-tiktokx-origin.image?dr=14566&x-expires=1791964800&x-signature=Ao1XeIkAA5Q8BJ%2B1rJZcU%2Fv66Yk%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my2",
+                "https://p16-common-sign.tiktokcdn.com/tiktok-obj/capcut_logo_64px_bk.png~tplv-tiktokx-origin.jpeg?dr=14566&x-expires=1791964800&x-signature=AEGape98kjzWis8Dt0T6jhwiw9w%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my2"
+              ]
+            },
+            "schema": "https://www.capcut.com",
+            "thumbnail": {},
+            "type": 35
+          }
+        ],
+        "author": {
+          "avatarLarger": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/6b8545921c56a81ba6d62abefa9b5d21~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=00917cfa&x-expires=1792116000&x-signature=Zj4od1AT%2BojYvUSsSPB7JFNpqJM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my3",
+          "avatarMedium": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/6b8545921c56a81ba6d62abefa9b5d21~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=ade5aa79&x-expires=1792116000&x-signature=UGVQPE%2B5iiy17gzoj0vctZqmIxE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my3",
+          "avatarThumb": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/6b8545921c56a81ba6d62abefa9b5d21~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=34ff94db&x-expires=1792116000&x-signature=ZvFaKiq43wJR0fPGN47qUqn60no%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my3",
+          "commentSetting": 0,
+          "downloadSetting": 0,
+          "duetSetting": 0,
+          "ftc": false,
+          "id": "7561687396082172949",
+          "isADVirtual": false,
+          "isEmbedBanned": false,
+          "nickname": "gaixxinhk1940",
+          "openFavorite": false,
+          "privateAccount": false,
+          "relation": 0,
+          "secUid": "MS4wLjABAAAAMUiW5SLdHPctABXfLPbABNgRtw_OeWgRmQOTOxQenhR55yhDCYvwjXjXJoUp198o",
+          "secret": false,
+          "shortDramaCreator": {},
+          "signature": "Target:10k flowers 🌹",
+          "stitchSetting": 0,
+          "uniqueId": "gaixxinhk1940",
+          "verified": false
+        },
+        "authorStats": {
+          "diggCount": 160,
+          "followerCount": 7275,
+          "followingCount": 10,
+          "friendCount": 0,
+          "heart": 520300,
+          "heartCount": 520300,
+          "videoCount": 27
+        },
+        "authorStatsV2": {
+          "diggCount": "160",
+          "followerCount": "7275",
+          "followingCount": "10",
+          "friendCount": "0",
+          "heart": "520300",
+          "heartCount": "520300",
+          "videoCount": "27"
+        },
+        "backendSourceEventTracking": "",
+        "challenges": [
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "111054",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "cot"
+          },
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "1604496473403393",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "xuhuong"
+          }
+        ],
+        "collected": false,
+        "contents": [
+          {
+            "desc": "#cot #xuhuong để ý bà tí!",
+            "textExtra": [
+              {
+                "awemeId": "",
+                "end": 4,
+                "hashtagName": "cot",
+                "isCommerce": false,
+                "start": 0,
+                "subType": 0,
+                "type": 1
+              },
+              {
+                "awemeId": "",
+                "end": 13,
+                "hashtagName": "xuhuong",
+                "isCommerce": false,
+                "start": 5,
+                "subType": 0,
+                "type": 1
+              }
+            ]
+          }
+        ],
+        "createTime": 1789559534,
+        "desc": "#cot #xuhuong để ý bà tí!",
+        "digged": false,
+        "duetDisplay": 0,
+        "duetEnabled": true,
+        "effectStickers": [
+          {
+            "ID": "2188704104",
+            "name": "ASD GYY2",
+            "stickerStats": {
+              "useCount": 0
+            }
+          }
+        ],
+        "forFriend": false,
+        "id": "7686099657188986132",
+        "isAd": true,
+        "isECVideo": 1,
+        "isProhibited": false,
+        "isReviewing": false,
+        "itemCommentStatus": 0,
+        "item_control": {
+          "can_comment": true,
+          "can_creator_redirect": true,
+          "can_music_redirect": true,
+          "can_repost": true,
+          "can_share": true
+        },
+        "music": {
+          "authorName": "LSR TÂN AN🐲",
+          "coverLarge": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/f378a116d955f6da61244110b4b3708a~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=cb2ac165&x-expires=1792116000&x-signature=IJXABB6G%2FVnqNi1Vs%2FKA5JLkxHg%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my3",
+          "coverMedium": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/f378a116d955f6da61244110b4b3708a~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=9d97403d&x-expires=1792116000&x-signature=poXw8ZQkB5evanaebW5W2LMpTvI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my3",
+          "coverThumb": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/f378a116d955f6da61244110b4b3708a~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=aec357af&x-expires=1792116000&x-signature=mTd3MNvMnMEmvqs3LoT5FfVQ0TU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my3",
+          "duration": 13,
+          "id": "7683894607546338066",
+          "isCopyrighted": false,
+          "is_commerce_music": true,
+          "is_unlimited_music": false,
+          "original": true,
+          "playUrl": "https://v16m.tiktokcdn.com/090e8fcc0b43c02a38b5e07de4d557a5/6ad0403e/video/tos/alisg/tos-alisg-v-27dcd7/owD5BzfDQEeNJxqUFrm6Co4qiBXCCE1AFAAwEg/?a=1180&bti=ODszNWYuMDE6&&bt=125&ft=GcDrcInz7Th3l7OGXq8Zmo&mime_type=audio_mpeg&rc=M3JpeHg5cnZkZDMzODU8NEBpM3JpeHg5cnZkZDMzODU8NEBxMGIvMmQ0bmVhLS1kMS1zYSNxMGIvMmQ0bmVhLS1kMS1zcw%3D%3D&vvpl=1&l=2026101410533764A4668B9578C10150B5&btag=e00070000&sp_exp=hash_v0",
+          "private": false,
+          "shoot_duration": 13,
+          "title": "âm thanh gốc - lạnh ôm ai",
+          "tt2dsp": {}
+        },
+        "officalItem": false,
+        "originalItem": false,
+        "penaltyContext": {
+          "arb_content_safety_status": 102,
+          "display_penalty_type": 0,
+          "display_policy": 0,
+          "display_ui_type": 0,
+          "ec_global_verdict": 1,
+          "reviewed": 0,
+          "status": 102,
+          "tns_status": 102,
+          "video_status": 10
+        },
+        "privateItem": false,
+        "secret": false,
+        "shareEnabled": true,
+        "stats": {
+          "collectCount": 27400,
+          "commentCount": 5495,
+          "diggCount": 454600,
+          "playCount": 6200000,
+          "shareCount": 2000000,
+          "repostCount": 0
+        },
+        "statsV2": {
+          "collectCount": "27411",
+          "commentCount": "5495",
+          "diggCount": "454600",
+          "playCount": "6200000",
+          "repostCount": "0",
+          "shareCount": "2000000"
+        },
+        "stickersOnItem": [
+          {
+            "stickerText": [
+              "Đang viết bài mà cốt gọi đi var!"
+            ],
+            "stickerType": 4
+          }
+        ],
+        "stitchDisplay": 0,
+        "stitchEnabled": true,
+        "textExtra": [
+          {
+            "awemeId": "",
+            "end": 4,
+            "hashtagName": "cot",
+            "isCommerce": false,
+            "start": 0,
+            "subType": 0,
+            "type": 1
+          },
+          {
+            "awemeId": "",
+            "end": 13,
+            "hashtagName": "xuhuong",
+            "isCommerce": false,
+            "start": 5,
+            "subType": 0,
+            "type": 1
+          }
+        ],
+        "textLanguage": "vi",
+        "textTranslatable": true,
+        "video": {
+          "VQScore": "64.72",
+          "bitrate": 717544,
+          "claInfo": {
+            "enableAutoCaption": true,
+            "hasOriginalAudio": true,
+            "noCaptionReason": 3
+          },
+          "codecType": "h264",
+          "cover": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oYAJqLjHSV8eGCmJjeECQVImA4IfDaKgDVHKgw~tplv-tiktokx-origin.image?dr=14575&x-expires=1792116000&x-signature=OQaKmmiK74%2BdpNsdiiJidVyakmA%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my2",
+          "definition": "540p",
+          "downloadAddr": "",
+          "duration": 13,
+          "dynamicCover": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oIw5g1mafAABBBBhCvKqEvIwCiIEUVnbouiIA8~tplv-tiktokx-origin.image?dr=14575&x-expires=1792116000&x-signature=np9pnv6tiZEOHswyTjskGMurD5Q%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my2",
+          "encodeUserTag": "",
+          "encodedType": "normal",
+          "format": "mp4",
+          "height": 1024,
+          "id": "7686099657188986132",
+          "originCover": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/o0iiCgovIv5CutVAwqHBfA8IEhAiBEUwA7s1IB~tplv-tiktokx-origin.image?dr=14575&x-expires=1792116000&x-signature=kJAea2otWXFMy39Ah4nRgUOhxwY%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my2",
+          "playAddr": "",
+          "ratio": "540p",
+          "size": 1166009,
+          "videoID": "v1c044g50000dal84gvog65png8ahgu0",
+          "videoQuality": "normal",
+          "volumeInfo": {
+            "Loudness": -20.5,
+            "Peak": 0.4217
+          },
+          "width": 576,
+          "zoomCover": {
+            "240": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oYAJqLjHSV8eGCmJjeECQVImA4IfDaKgDVHKgw~tplv-photomode-zoomcover:240:240.jpeg?dr=14555&x-expires=1792116000&x-signature=nUcpDcnSG7UzJg7lLm1YROv5svo%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my2&ftpl=1",
+            "480": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oYAJqLjHSV8eGCmJjeECQVImA4IfDaKgDVHKgw~tplv-photomode-zoomcover:480:480.jpeg?dr=14555&x-expires=1792116000&x-signature=OgsbjslfvEvXexkB1Ipuw2D2vbs%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my2&ftpl=1",
+            "720": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oYAJqLjHSV8eGCmJjeECQVImA4IfDaKgDVHKgw~tplv-photomode-zoomcover:720:720.jpeg?dr=14555&x-expires=1792116000&x-signature=3xTh6pNV4jgM%2BEya4wEmKlsLSAA%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my2&ftpl=1",
+            "960": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oYAJqLjHSV8eGCmJjeECQVImA4IfDaKgDVHKgw~tplv-photomode-zoomcover:960:960.jpeg?dr=14555&x-expires=1792116000&x-signature=7TqOn4Lte5ZW%2FbzJ%2Fw3GFlAAQtk%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my2&ftpl=1"
+          }
+        },
+        "_category_name": "Singing & Dancing",
+        "_category_id": 120
+      }
+    },
+    {
+      "item_id": "7694619301701192967",
+      "error": "1 validation error for TikTokItemModel\nvideo.playAddr\n  String should have at least 1 character [type=string_too_short, input_value='', input_type=str]\n    For further information visit https://errors.pydantic.dev/2.13/v/string_too_short",
+      "rejected_at": "2026-10-14 09:54:11",
+      "raw_record": {
+        "AIGCDescription": "",
+        "AnchorTypes": [
+          33
+        ],
+        "CategoryType": 105,
+        "IsHDBitrate": false,
+        "ShowAIGC": false,
+        "anchors": [
+          {
+            "extra": "[{\"keyword\":\"Đồ chơi fidget dạng bàn phím m\",\"id\":\"1737829364721091949\",\"type\":33,\"icon\":{\"uri\":\"tiktok-obj/6805474799129724943shopify.png\",\"url_list\":[\"https://p16-common.tiktokcdn.com/tiktok-obj/6805474799129724943shopify.png~tplv-tiktokx-origin.image?dr=14000\\u0026t=4d5b0474\\u0026ps=933b5bde\\u0026shp=57d7afb6\\u0026shcp=81f88b70\\u0026idc=my2\",\"https://p19-common.tiktokcdn.com/tiktok-obj/6805474799129724943shopify.png~tplv-tiktokx-origin.image?dr=14000\\u0026t=4d5b0474\\u0026ps=933b5bde\\u0026shp=57d7afb6\\u0026shcp=81f88b70\\u0026idc=my2\",\"https://p16-common.tiktokcdn.com/tiktok-obj/6805474799129724943shopify.png~tplv-tiktokx-origin.jpeg?dr=14000\\u0026t=4d5b0474\\u0026ps=933b5bde\\u0026shp=57d7afb6\\u0026shcp=81f88b70\\u0026idc=my2\"],\"width\":720,\"height\":720,\"url_prefix\":null},\"extra\":\"{\\\"product_id\\\":1737829364721091949,\\\"title\\\":\\\"Đồ chơi fidget dạng bàn phím mini, móc khóa bàn phím hoạt hình, đồ chơi nhấn nút bàn phím 26 trong 1 giúp giảm căng thẳng, phụ kiện treo balo\\\",\\\"cover\\\":\\\"tos-alisg-i-aphluv4xwc-sg/153f9d9615904d7b892524d8f8ae2b0e\\\",\\\"img\\\":[\\\"tos-alisg-i-aphluv4xwc-sg/153f9d9615904d7b892524d8f8ae2b0e\\\",\\\"tos-alisg-i-aphluv4xwc-sg/fdfff061a69c4d30a0dc199682d99167\\\",\\\"tos-alisg-i-aphluv4xwc-sg/c641e05fc92d4209b30526b81394b176\\\",\\\"tos-alisg-i-aphluv4xwc-sg/7e4408e2f5b845b39f575566afdfc68c\\\",\\\"tos-alisg-i-aphluv4xwc-sg/3123798f75bc4b2695f788fa081e1dbd\\\",\\\"tos-alisg-i-aphluv4xwc-sg/901218946f944d5e93a6d1a16022a286\\\",\\\"tos-alisg-i-aphluv4xwc-sg/48763184de694be58e493dca458ae5eb\\\",\\\"tos-alisg-i-aphluv4xwc-sg/cac0dd6954854207bbc7d781aafd750f\\\",\\\"tos-alisg-i-aphluv4xwc-sg/9dd8e7c16c3a4a46a79a5b037d4a9463\\\"],\\\"market_price\\\":0,\\\"currency\\\":\\\"VND\\\",\\\"detail_url\\\":\\\"https://oec-api.tiktokv.com/view/fe_tiktok_ecommerce_upgrade/index.html?enter_from=video\\\\u0026hide_nav_bar=1\\\\u0026view_background_color_auto_dark=1\\\\u0026should_full_screen=1\\\",\\\"product_status\\\":90,\\\"addition_id\\\":0,\\\"elastic_title\\\":\\\"Đồ chơi fidget dạng bàn phím m\\\",\\\"elastic_img\\\":null,\\\"in_shop\\\":false,\\\"platform\\\":5,\\\"extra\\\":{\\\"mix_product_type\\\":\\\"1\\\"},\\\"cover_url\\\":\\\"https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/153f9d9615904d7b892524d8f8ae2b0e~tplv-aphluv4xwc-resize-jpeg:800:800.jpeg?dr=15584\\\\u0026t=555f072d\\\\u0026ps=933b5bde\\\\u0026shp=615b9c44\\\\u0026shcp=57d7afb6\\\\u0026idc=my2\\\\u0026from=1633393732\\\",\\\"img_url\\\":[\\\"https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/153f9d9615904d7b892524d8f8ae2b0e~tplv-aphluv4xwc-resize-jpeg:800:800.jpeg?dr=15584\\\\u0026t=555f072d\\\\u0026ps=933b5bde\\\\u0026shp=615b9c44\\\\u0026shcp=57d7afb6\\\\u0026idc=my2\\\\u0026from=1633393732\\\"],\\\"elastic_img_url\\\":null,\\\"final_url\\\":\\\"\\\",\\\"source\\\":\\\"TikTok Shop\\\",\\\"short_url\\\":\\\"\\\",\\\"seller_id\\\":8654914658497037677,\\\"need_preload\\\":false,\\\"load_method_type\\\":2,\\\"skus\\\":[{\\\"sku_id\\\":1737829475689661805,\\\"outer_sku_id\\\":\\\"\\\",\\\"outer_product_id\\\":\\\"\\\"},{\\\"sku_id\\\":1737829475689727341,\\\"outer_sku_id\\\":\\\"\\\",\\\"outer_product_id\\\":\\\"\\\"},{\\\"sku_id\\\":1737829475689792877,\\\"outer_sku_id\\\":\\\"\\\",\\\"outer_product_id\\\":\\\"\\\"},{\\\"sku_id\\\":1737829475689858413,\\\"outer_sku_id\\\":\\\"\\\",\\\"outer_product_id\\\":\\\"\\\"},{\\\"sku_id\\\":1737829475689923949,\\\"outer_sku_id\\\":\\\"\\\",\\\"outer_product_id\\\":\\\"\\\"},{\\\"sku_id\\\":1737829475689989485,\\\"outer_sku_id\\\":\\\"\\\",\\\"outer_product_id\\\":\\\"\\\"},{\\\"sku_id\\\":1737829475690055021,\\\"outer_sku_id\\\":\\\"\\\",\\\"outer_product_id\\\":\\\"\\\"},{\\\"sku_id\\\":1737829475690120557,\\\"outer_sku_id\\\":\\\"\\\",\\\"outer_product_id\\\":\\\"\\\"}],\\\"is_platform_product\\\":false,\\\"categories\\\":[{\\\"category_id\\\":600001,\\\"category_name\\\":\\\"Đồ gia dụng\\\",\\\"level\\\":1,\\\"is_leaf\\\":false,\\\"parent_id\\\":0,\\\"name_key\\\":\\\"magellan_600001\\\"},{\\\"category_id\\\":852488,\\\"category_name\\\":\\\"Đồ dùng lễ hội \\\\u0026 tiệc tùng\\\",\\\"level\\\":2,\\\"is_leaf\\\":false,\\\"parent_id\\\":600001,\\\"name_key\\\":\\\"magellan_852488\\\"},{\\\"category_id\\\":855944,\\\"category_name\\\":\\\"Túi \\\\u0026 Quà tặng dự tiệc\\\",\\\"level\\\":3,\\\"is_leaf\\\":true,\\\"parent_id\\\":852488,\\\"name_key\\\":\\\"magellan_855944\\\"}],\\\"price\\\":0,\\\"currency_format\\\":{\\\"currency_symbol\\\":\\\"?\\\",\\\"decimal_place\\\":2,\\\"decimal_symbol\\\":\\\".\\\",\\\"separator\\\":\\\",\\\",\\\"separator_index\\\":[3,6,9,12,15,18]},\\\"schema\\\":\\\"aweme://ec/pdp?biz_type=0\\\\u0026fullScreen=true\\\\u0026orderRequestParams=%7B%7D\\\\u0026requestParams=%7B%22product_id%22%3A%5B%221737829364721091949%22%5D%2C%22traffic_signature%22%3A%22%7B%5C%22scene%5C%22%3A%5C%22Default.video_pack%5C%22%7D%22%7D\\\\u0026visitReportParams=%7B%22chain_key%22%3A%22%7B%5C%22cck%5C%22%3A%5C%22thER3ejSGBe%2BTRQcof4TEsVTLt9JN9cqblZ1kXFTMNll05LwUFkO30uoz17MU6ogID7k0v8c%2FB0VN9Ml18jz2E6oS78ce%2FB2ZCVOoQ%3D%3D%5C%22%2C%5C%22mck%5C%22%3A%5C%22XsFDjPv6zbpN%2Bame4IAGyFSQLWa%2F%2BxGj%2FD6VhCnTIsuyx3yY84P9kv08AvaM3HM1sdogtCsKv7g%2F3D1ISSJtTnyYCo4wPVlakxRQEQ%3D%3D%5C%22%2C%5C%22v%5C%22%3A1%7D%22%2C%22material_id%22%3A%221737829364721091949%22%2C%22material_type%22%3A1%2C%22seller_id%22%3A%228654914658497037677%22%7D\\\",\\\"gyl_schema\\\":\\\"aweme://lynxview?use_spark=1\\\\u0026enable_lynx_builder_opt=1\\\\u0026opt_title=0\\\\u0026hide_loading=1\\\\u0026screen_orientation=auto\\\\u0026url=https%3A%2F%2Flf16-gecko-source.tiktokcdn.com%2Fobj%2Fbyte-gurd-source-sg%2Ftiktok%2Ffe%2Flive%2Ftiktok_ecom_rec_pages%2Fvideo_anchor_more_ymal%2Ftemplate.js\\\\u0026enter_from=homepage_hot\\\\u0026previous_page=video\\\\u0026traffic_source=2\\\\u0026traffic_source_list=%5B2%5D\\\\u0026context_video_id=7694619301701192967\\\\u0026author_id=0\\\\u0026context_product_info_list=%5B%7B%22chain_key%22%3A%22%7B%5C%22cck%5C%22%3A%5C%22thER3ejSGBe%2BTRQcof4TEsVTLt9JN9cqblZ1kXFTMNll05LwUFkO30uoz17MU6ogID7k0v8c%2FB0VN9Ml18jz2E6oS78ce%2FB2ZCVOoQ%3D%3D%5C%22%2C%5C%22mck%5C%22%3A%5C%22XsFDjPv6zbpN%2Bame4IAGyFSQLWa%2F%2BxGj%2FD6VhCnTIsuyx3yY84P9kv08AvaM3HM1sdogtCsKv7g%2F3D1ISSJtTnyYCo4wPVlakxRQEQ%3D%3D%5C%22%2C%5C%22v%5C%22%3A1%7D%22%2C%22id%22%3A%221737829364721091949%22%2C%22seller_id%22%3A%228654914658497037677%22%7D%5D\\\",\\\"source_from\\\":2,\\\"biz_type\\\":0,\\\"seo_url\\\":\\\"https://shop.tiktok.com/vn/pdp/1737829364721091949?source=anchor\\\",\\\"bcm_standard_track\\\":null,\\\"client_payload_map\\\":\\\"{\\\\\\\"media_mode\\\\\\\":\\\\\\\"video\\\\\\\",\\\\\\\"video_duration_ms\\\\\\\":8963,\\\\\\\"aweme_payload_extraction_paths\\\\\\\":[\\\\\\\"image_post_info.images[*].display_image.uri\\\\\\\"]}\\\"}\",\"actions\":null,\"component_key\":\"anchor_shop\",\"anchor_strong\":null}]",
+            "extraInfo": {
+              "subtype": ""
+            },
+            "icon": {
+              "urlList": [
+                "https://p16-common-sign.tiktokcdn.com/tiktok-obj/capcut_logo_64px_bk.png~tplv-tiktokx-origin.image?dr=14566&x-expires=1791964800&x-signature=e%2FMcNlv%2FNLglyVlyn9gpm8PHEy0%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my2",
+                "https://p19-common-sign.tiktokcdn.com/tiktok-obj/capcut_logo_64px_bk.png~tplv-tiktokx-origin.image?dr=14566&x-expires=1791964800&x-signature=Ao1XeIkAA5Q8BJ%2B1rJZcU%2Fv66Yk%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my2",
+                "https://p16-common-sign.tiktokcdn.com/tiktok-obj/capcut_logo_64px_bk.png~tplv-tiktokx-origin.jpeg?dr=14566&x-expires=1791964800&x-signature=AEGape98kjzWis8Dt0T6jhwiw9w%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my2"
+              ]
+            },
+            "schema": "https://www.capcut.com",
+            "thumbnail": {},
+            "type": 35
+          }
+        ],
+        "author": {
+          "avatarLarger": "https://p19-common-sign.tiktokcdn.com/tos-alisg-avt-0068/f39238b5c5d4ec76b7f256dae3d9333d~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=38014d1b&x-expires=1792116000&x-signature=4yB0DvgfhWGA6B6su%2FGP0H95dBk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my3",
+          "avatarMedium": "https://p19-common-sign.tiktokcdn.com/tos-alisg-avt-0068/f39238b5c5d4ec76b7f256dae3d9333d~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=6a873f0c&x-expires=1792116000&x-signature=de8kbcGxF4V6YCwDBspr%2B1J6H4o%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my3",
+          "avatarThumb": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/f39238b5c5d4ec76b7f256dae3d9333d~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=6149f934&x-expires=1792116000&x-signature=C%2Fx2aRD6ba9XLyHdgQHmpjtQGOw%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my3",
+          "commentSetting": 0,
+          "downloadSetting": 0,
+          "duetSetting": 0,
+          "ftc": false,
+          "id": "7424532782301283335",
+          "isADVirtual": false,
+          "isEmbedBanned": false,
+          "nickname": "Thành_trầm_tính❗️",
+          "openFavorite": false,
+          "privateAccount": false,
+          "relation": 0,
+          "secUid": "MS4wLjABAAAATQDglyoOJXrDOLydl1x9a44krtmZozGFsLCelLk8eOTKYY_dmiunP2aOalI_kYC1",
+          "secret": false,
+          "shortDramaCreator": {},
+          "signature": "Lhcv ⓪⑨⑥⑦⑥④⑤⑦⑨①( k gọi)\nIg: vatha_205",
+          "stitchSetting": 0,
+          "uniqueId": "thanh.tramtinh",
+          "verified": false
+        },
+        "authorStats": {
+          "diggCount": 3304,
+          "followerCount": 38800,
+          "followingCount": 10,
+          "friendCount": 0,
+          "heart": 6900000,
+          "heartCount": 6900000,
+          "videoCount": 1666
+        },
+        "authorStatsV2": {
+          "diggCount": "3304",
+          "followerCount": "38800",
+          "followingCount": "10",
+          "friendCount": "0",
+          "heart": "6900000",
+          "heartCount": "6900000",
+          "videoCount": "1666"
+        },
+        "backendSourceEventTracking": "",
+        "collected": false,
+        "createTime": 1791543186,
+        "desc": "",
+        "digged": false,
+        "diversificationId": 10050,
+        "duetDisplay": 0,
+        "duetEnabled": true,
+        "forFriend": false,
+        "id": "7694619301701192967",
+        "isAd": true,
+        "isECVideo": 1,
+        "isProhibited": false,
+        "isReviewing": false,
+        "itemCommentStatus": 0,
+        "item_control": {
+          "can_comment": true,
+          "can_creator_redirect": true,
+          "can_music_redirect": true,
+          "can_repost": true,
+          "can_share": true
+        },
+        "music": {
+          "authorName": "prod.young_tachi",
+          "coverLarge": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/275353330628907773f463aaea55fafa~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=2c6eda95&x-expires=1792116000&x-signature=gE97lNTrtUBO7Dsae7sDA7zy9uE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my3",
+          "coverMedium": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/275353330628907773f463aaea55fafa~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=89193336&x-expires=1792116000&x-signature=1NLOo7zThLID9WNwVQ3R5GdVbNA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my3",
+          "coverThumb": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/275353330628907773f463aaea55fafa~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=2f3b941a&x-expires=1792116000&x-signature=9ezO0ditZ7luiNrA59HiCNwJSE8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my3",
+          "duration": 37,
+          "id": "7693042874477464341",
+          "isCopyrighted": false,
+          "is_commerce_music": true,
+          "is_unlimited_music": false,
+          "original": true,
+          "playUrl": "https://v16m.tiktokcdn.com/24f567f35dc5e322794ed8e6061d5f65/6ad0405e/video/tos/alisg/tos-alisg-v-27dcd7/oACCBUCqQE6SaJMY2WFfBFDwfDrg9yQ589Yb3g/?a=1180&bti=ODszNWYuMDE6&&bt=125&ft=GcDrcInz7Th6l7OGXq8Zmo&mime_type=audio_mpeg&rc=OzM8ZDZlOjM1OzdmOGY5aEBpanhwaHY5cmhsZTMzODU8NEAvMWEvNTMwXi4xYi5iLTZeYSMybHFzMmRrby5hLS1kMS1zcw%3D%3D&vvpl=1&l=20261014105345BD043F60583FE7013F6F&btag=e00088000&sp_exp=hash_v0",
+          "private": false,
+          "shoot_duration": 37,
+          "title": "âm thanh gốc - prod.young_tachi",
+          "tt2dsp": {}
+        },
+        "officalItem": false,
+        "originalItem": false,
+        "penaltyContext": {
+          "arb_content_safety_status": 102,
+          "display_penalty_type": 0,
+          "display_policy": 0,
+          "display_ui_type": 0,
+          "ec_global_verdict": 1,
+          "reviewed": 0,
+          "status": 102,
+          "tns_status": 102,
+          "video_status": 10
+        },
+        "privateItem": false,
+        "secret": false,
+        "shareEnabled": true,
+        "stats": {
+          "collectCount": 4531,
+          "commentCount": 472,
+          "diggCount": 28600,
+          "playCount": 6600000,
+          "shareCount": 10400,
+          "repostCount": 0
+        },
+        "statsV2": {
+          "collectCount": "4531",
+          "commentCount": "472",
+          "diggCount": "28600",
+          "playCount": "6600000",
+          "repostCount": "0",
+          "shareCount": "10400"
+        },
+        "stickersOnItem": [
+          {
+            "stickerText": [
+              "Xả stress nè"
+            ],
+            "stickerType": 4
+          }
+        ],
+        "stitchDisplay": 0,
+        "stitchEnabled": true,
+        "textLanguage": "un",
+        "textTranslatable": false,
+        "video": {
+          "VQScore": "71.36",
+          "bitrate": 1304992,
+          "claInfo": {
+            "enableAutoCaption": true,
+            "hasOriginalAudio": true,
+            "noCaptionReason": 3
+          },
+          "codecType": "h264",
+          "cover": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oAubZKOIGINKCxPAi1GwdPBxiEfBAA55jImIRj~tplv-tiktokx-dmt-logom:tos-alisg-i-0068/oARfEnEVDAAIBDjCAEn5fA5AIQqDkFueY43xQI.image?dr=14573&x-expires=1792116000&x-signature=yVpDOMbTbN6zeAmA19Uw1NumFfY%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my2",
+          "definition": "540p",
+          "downloadAddr": "",
+          "duration": 8,
+          "dynamicCover": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/ocTI2GLkMQGeTECA8UxAeeI0VRQajCUD4gyYjC~tplv-tiktokx-origin.image?dr=14575&x-expires=1792116000&x-signature=uv6YmBttKhLj%2FWnLrbGDgwiQtRs%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my2",
+          "encodeUserTag": "",
+          "encodedType": "normal",
+          "format": "mp4",
+          "height": 1024,
+          "id": "7694619301701192967",
+          "originCover": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oQGI64fTQC2kUQIP5ejxIOEDN8kUYAMeB0AiLV~tplv-tiktokx-origin.image?dr=14575&x-expires=1792116000&x-signature=27M%2BaQCqC2kpCezRjh4z3bFiejo%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my2",
+          "playAddr": "",
+          "ratio": "540p",
+          "size": 1454414,
+          "videoID": "v1c044g50000db4cf2fog65h6jp9m650",
+          "videoQuality": "normal",
+          "volumeInfo": {
+            "Loudness": -16.8,
+            "Peak": 0.75858
+          },
+          "width": 576,
+          "zoomCover": {
+            "240": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oAubZKOIGINKCxPAi1GwdPBxiEfBAA55jImIRj~tplv-photomode-zoomcover:240:240.jpeg?dr=14555&x-expires=1792116000&x-signature=7OPVCnnLkZBf9irhJPCxKE1mozQ%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my2&ftpl=1",
+            "480": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oAubZKOIGINKCxPAi1GwdPBxiEfBAA55jImIRj~tplv-photomode-zoomcover:480:480.jpeg?dr=14555&x-expires=1792116000&x-signature=9NmL4VImtsuqkd6aCgTfN2pi9Ho%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my2&ftpl=1",
+            "720": "https://p19-common-sign.tiktokcdn.com/tos-alisg-p-0037/oAubZKOIGINKCxPAi1GwdPBxiEfBAA55jImIRj~tplv-photomode-zoomcover:720:720.jpeg?dr=14555&x-expires=1792116000&x-signature=cA25PNtzuzq%2FS7%2BtQmhUOE%2BsQrA%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my2&ftpl=1",
+            "960": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oAubZKOIGINKCxPAi1GwdPBxiEfBAA55jImIRj~tplv-photomode-zoomcover:960:960.jpeg?dr=14555&x-expires=1792116000&x-signature=EUK4KNdHRyrCzyIG9J5qmnfZxB0%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my2&ftpl=1"
+          }
+        },
+        "_category_name": "Singing & Dancing",
+        "_category_id": 120
+      }
+    }
+  ]
+}

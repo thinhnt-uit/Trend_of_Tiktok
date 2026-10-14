@@ -1,0 +1,6 @@
+version: 2
+
+sources:
+  - name: public
+    tables:
+      - name: stg_tiktok_explore_videos

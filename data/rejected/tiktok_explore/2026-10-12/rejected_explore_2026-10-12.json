@@ -1,0 +1,365 @@
+{
+  "crawled_at": "2026-10-12 13:21:19",
+  "date": "2026-10-12",
+  "total_rejected": 1,
+  "rejected_list": [
+    {
+      "item_id": "7693745713209019649",
+      "error": "1 validation error for TikTokItemModel\nvideo.playAddr\n  String should have at least 1 character [type=string_too_short, input_value='', input_type=str]\n    For further information visit https://errors.pydantic.dev/2.13/v/string_too_short",
+      "rejected_at": "2026-10-12 13:21:22",
+      "raw_record": {
+        "AIGCDescription": "",
+        "AnchorTypes": [
+          54,
+          33
+        ],
+        "CategoryType": 120,
+        "IsHDBitrate": false,
+        "ShowAIGC": true,
+        "anchors": [
+          {
+            "description": "CapCut · Video Editor",
+            "extraInfo": {
+              "subtype": ""
+            },
+            "icon": {
+              "urlList": [
+                "https://p16-common-sign.tiktokcdn.com/tiktok-obj/capcut_logo_64px_bk.png~tplv-tiktokx-origin.image?dr=14566&x-expires=1791806400&x-signature=5sGP3XvQ5fZh%2FJW70iaH8g8S7z4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my",
+                "https://p19-common-sign.tiktokcdn.com/tiktok-obj/capcut_logo_64px_bk.png~tplv-tiktokx-origin.image?dr=14566&x-expires=1791806400&x-signature=hnwQ%2BXuTaaaqB8jJH67aM3DZSEE%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my",
+                "https://p16-common-sign.tiktokcdn.com/tiktok-obj/capcut_logo_64px_bk.png~tplv-tiktokx-origin.jpeg?dr=14566&x-expires=1791806400&x-signature=5hf%2BJQPPe%2B6rosqCbnGF8LzGAh4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my"
+              ]
+            },
+            "id": "0",
+            "keyword": "CapCut · Edit like a pro",
+            "logExtra": "{\"anchor_id\":0,\"anchor_name\":\"CapCut · Edit like a pro\",\"anchor_title_detail\":\"None\",\"anchor_title_id\":21502485763,\"anchor_type\":\"TT_CAPCUT\",\"anchor_type_level1\":\"tool\",\"anchor_type_level2\":\"tool_video\",\"capability_key\":\"text,text_font\",\"ccep_vip\":0,\"if_race_trigger\":0,\"is_two_line\":0,\"landing_page_style_id\":21502486275,\"maker_source\":\"\",\"outreach_content\":\"original\",\"outreach_extra_info\":\"{\\\"group_id\\\":\\\"7693745713209019649\\\",\\\"outreach_content_type\\\":\\\"original\\\"}\",\"outreach_intention\":\"diversion\",\"outreach_key\":54,\"outreach_to_app_id\":\"3006\",\"outreach_type\":\"feed_anchor\",\"publish_key\":\"capability\",\"template_id\":\"none\",\"tutorial_id\":\"none\",\"viamaker_anchor_capability_key_weight\":1,\"viamaker_anchor_style_idx\":-1,\"viamaker_anchor_style_source\":3,\"video_source\":0,\"video_type_id\":1}",
+            "schema": "https://www.capcut.com/tools/desktop-video-editor?channel=capcutpc_ttweb_anchor_edit1&download_channel=capcutpc_ttweb_anchor_edit1&enter_from=capcutpc_ttweb_anchor_edit1&force_dp=1&from_page=capcutpc_ttweb_anchor_edit1&type=tools",
+            "thumbnail": {
+              "height": 64,
+              "urlList": [
+                "https://p19-common-sign.tiktokcdn.com/tiktok-obj/64x_Capcut3x.png~tplv-tiktokx-origin.image?dr=14566&x-expires=1791806400&x-signature=ruwA5nr9KLpOY%2FM85KIBymJrlvI%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my",
+                "https://p16-common-sign.tiktokcdn.com/tiktok-obj/64x_Capcut3x.png~tplv-tiktokx-origin.image?dr=14566&x-expires=1791806400&x-signature=nv44po0qYHUPGBLuany6ZNhHReY%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my",
+                "https://p19-common-sign.tiktokcdn.com/tiktok-obj/64x_Capcut3x.png~tplv-tiktokx-origin.jpeg?dr=14566&x-expires=1791806400&x-signature=sMFkYv6pMRSq%2BalnuXkuo0Mjcq4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my"
+              ],
+              "width": 64
+            },
+            "type": 54
+          }
+        ],
+        "author": {
+          "avatarLarger": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/b525fd8be99f42c8f12c054ccced7d17~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=8a51a36b&x-expires=1791957600&x-signature=dHD9lKYX4TJOjTEv8ErcD783Kv0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+          "avatarMedium": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/b525fd8be99f42c8f12c054ccced7d17~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=fd9faa43&x-expires=1791957600&x-signature=EDkijEOh%2FAj0eAHudoRCfeASnhM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+          "avatarThumb": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/b525fd8be99f42c8f12c054ccced7d17~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=00f1f3c2&x-expires=1791957600&x-signature=9e4Est4%2FxU9swRQ8QGd0a9qAeeM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+          "commentSetting": 0,
+          "downloadSetting": 0,
+          "duetSetting": 0,
+          "ftc": false,
+          "id": "7618691153047487504",
+          "isADVirtual": false,
+          "isEmbedBanned": false,
+          "nickname": "Thanh Quận Cam ",
+          "openFavorite": false,
+          "privateAccount": false,
+          "relation": 0,
+          "secUid": "MS4wLjABAAAA5onadivtX6ps5CjcOhZkhCWW9vQ9-E5DdnHom289kJKpq7PGUqsOo5ljUm2jGuUY",
+          "secret": false,
+          "shortDramaCreator": {},
+          "signature": "follow tôi để xem những video mới nhất 🥰 !",
+          "stitchSetting": 0,
+          "uniqueId": "thanhquancam.vn",
+          "verified": false
+        },
+        "authorStats": {
+          "diggCount": 1309,
+          "followerCount": 22500,
+          "followingCount": 2,
+          "friendCount": 0,
+          "heart": 806400,
+          "heartCount": 806400,
+          "videoCount": 41
+        },
+        "authorStatsV2": {
+          "diggCount": "1309",
+          "followerCount": "22500",
+          "followingCount": "2",
+          "friendCount": "0",
+          "heart": "806400",
+          "heartCount": "806400",
+          "videoCount": "41"
+        },
+        "backendSourceEventTracking": "",
+        "challenges": [
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "CapCut is a new, easy-to-use video editing tool designed for mobile platforms. CapCut provides users with a wide range of video editing functions, filters, audio &amp; visual effects, video templates, while keeping it free of charge and ads-free. Everyone can be a creator by using CapCut.  \n\nStart creating your cool videos today: \nhttps://capcut.onelink.me/XKqI/228cad85",
+            "id": "1663935709411330",
+            "profileLarger": "https://p16-common-sign.tiktokcdn.com/tiktok-obj/1d1c20b6de3fc0b4da37670699cbcb07~tplv-tiktokx-origin.image?dr=14566&x-expires=1791806400&x-signature=m0ghzzdQvu3xiqiR6jfU7UDm3J4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my",
+            "profileMedium": "https://p16-common-sign.tiktokcdn.com/tiktok-obj/1d1c20b6de3fc0b4da37670699cbcb07~tplv-tiktokx-origin.image?dr=14566&x-expires=1791806400&x-signature=m0ghzzdQvu3xiqiR6jfU7UDm3J4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my",
+            "profileThumb": "https://p16-common-sign.tiktokcdn.com/tiktok-obj/1d1c20b6de3fc0b4da37670699cbcb07~tplv-tiktokx-origin.image?dr=14566&x-expires=1791806400&x-signature=m0ghzzdQvu3xiqiR6jfU7UDm3J4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my",
+            "title": "capcut"
+          },
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "1657654429918210",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "nguyenducanh"
+          },
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "1637277959461889",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "phapluat"
+          },
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "1604496473403393",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "xuhuong"
+          },
+          {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "763263",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "xh"
+          }
+        ],
+        "collected": false,
+        "contents": [
+          {
+            "desc": "#CapCut Khi mình nhận ra những sai lầm ",
+            "textExtra": [
+              {
+                "awemeId": "",
+                "end": 7,
+                "hashtagName": "capcut",
+                "isCommerce": false,
+                "start": 0,
+                "subType": 0,
+                "type": 1
+              }
+            ]
+          },
+          {
+            "desc": "Thì mình cũng đã rời "
+          },
+          {
+            "desc": "Xa cuộc đời rồi #nguyenducanh #phapluat #xuhuong #xh ",
+            "textExtra": [
+              {
+                "awemeId": "",
+                "end": 29,
+                "hashtagName": "nguyenducanh",
+                "isCommerce": false,
+                "start": 16,
+                "subType": 0,
+                "type": 1
+              },
+              {
+                "awemeId": "",
+                "end": 39,
+                "hashtagName": "phapluat",
+                "isCommerce": false,
+                "start": 30,
+                "subType": 0,
+                "type": 1
+              },
+              {
+                "awemeId": "",
+                "end": 48,
+                "hashtagName": "xuhuong",
+                "isCommerce": false,
+                "start": 40,
+                "subType": 0,
+                "type": 1
+              },
+              {
+                "awemeId": "",
+                "end": 52,
+                "hashtagName": "xh",
+                "isCommerce": false,
+                "start": 49,
+                "subType": 0,
+                "type": 1
+              }
+            ]
+          }
+        ],
+        "createTime": 1791339823,
+        "desc": "#CapCut Khi mình nhận ra những sai lầm  Thì mình cũng đã rời  Xa cuộc đời rồi #nguyenducanh #phapluat #xuhuong #xh ",
+        "digged": false,
+        "diversificationId": 10075,
+        "duetDisplay": 0,
+        "duetEnabled": true,
+        "forFriend": false,
+        "id": "7693745713209019649",
+        "isAd": false,
+        "isProhibited": false,
+        "isReviewing": false,
+        "itemCommentStatus": 0,
+        "item_control": {
+          "can_repost": true
+        },
+        "music": {
+          "authorName": "Thanh Quận Cam ",
+          "coverLarge": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/b525fd8be99f42c8f12c054ccced7d17~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=8a51a36b&x-expires=1791957600&x-signature=dHD9lKYX4TJOjTEv8ErcD783Kv0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+          "coverMedium": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/b525fd8be99f42c8f12c054ccced7d17~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=fd9faa43&x-expires=1791957600&x-signature=EDkijEOh%2FAj0eAHudoRCfeASnhM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+          "coverThumb": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/b525fd8be99f42c8f12c054ccced7d17~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=00f1f3c2&x-expires=1791957600&x-signature=9e4Est4%2FxU9swRQ8QGd0a9qAeeM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+          "duration": 19,
+          "id": "7693745954851228468",
+          "isCopyrighted": true,
+          "is_commerce_music": true,
+          "is_unlimited_music": false,
+          "original": true,
+          "playUrl": "https://v16m.tiktokcdn.com/dc0f7c28ca6b577d4adfd3ef823706aa/6acdcdcd/video/tos/alisg/tos-alisg-v-27dcd7/o88bACBQUFY3AA6ADEPlThMtSsDrEA3iCiaWs/?a=1180&bti=ODszNWYuMDE6&&bt=125&ft=GcDrcInz7ThYglOGXq8Zmo&mime_type=audio_mpeg&rc=amptbnQ5cmZ0ZTMzODU8NEBpamptbnQ5cmZ0ZTMzODU8NEBkYmthMmQ0bi9hLS1kMS1zYSNkYmthMmQ0bi9hLS1kMS1zcw%3D%3D&vvpl=1&l=20261012142042467318C5A8BBFA048CDC&btag=e00078000&sp_exp=hash_v0",
+          "private": false,
+          "shoot_duration": 19,
+          "title": "âm thanh gốc - Thanh Quận Cam ",
+          "tt2dsp": {}
+        },
+        "officalItem": false,
+        "originalItem": false,
+        "penaltyContext": {
+          "arb_content_safety_status": 102,
+          "display_penalty_type": 0,
+          "display_policy": 0,
+          "display_ui_type": 0,
+          "ec_global_verdict": 1,
+          "reviewed": 1,
+          "status": 102,
+          "tns_status": 102,
+          "video_status": 10
+        },
+        "privateItem": false,
+        "secret": false,
+        "shareEnabled": true,
+        "stats": {
+          "collectCount": 3934,
+          "commentCount": 4792,
+          "diggCount": 58900,
+          "playCount": 1900000,
+          "shareCount": 3846,
+          "repostCount": 0
+        },
+        "statsV2": {
+          "collectCount": "3934",
+          "commentCount": "4792",
+          "diggCount": "58900",
+          "playCount": "1900000",
+          "repostCount": "0",
+          "shareCount": "3846"
+        },
+        "stitchDisplay": 0,
+        "stitchEnabled": true,
+        "textExtra": [
+          {
+            "awemeId": "",
+            "end": 7,
+            "hashtagName": "capcut",
+            "isCommerce": false,
+            "start": 0,
+            "subType": 0,
+            "type": 1
+          },
+          {
+            "awemeId": "",
+            "end": 91,
+            "hashtagName": "nguyenducanh",
+            "isCommerce": false,
+            "start": 78,
+            "subType": 0,
+            "type": 1
+          },
+          {
+            "awemeId": "",
+            "end": 101,
+            "hashtagName": "phapluat",
+            "isCommerce": false,
+            "start": 92,
+            "subType": 0,
+            "type": 1
+          },
+          {
+            "awemeId": "",
+            "end": 110,
+            "hashtagName": "xuhuong",
+            "isCommerce": false,
+            "start": 102,
+            "subType": 0,
+            "type": 1
+          },
+          {
+            "awemeId": "",
+            "end": 114,
+            "hashtagName": "xh",
+            "isCommerce": false,
+            "start": 111,
+            "subType": 0,
+            "type": 1
+          }
+        ],
+        "textLanguage": "vi",
+        "textTranslatable": true,
+        "video": {
+          "VQScore": "66.24",
+          "bitrate": 427040,
+          "claInfo": {
+            "enableAutoCaption": true,
+            "hasOriginalAudio": true,
+            "noCaptionReason": 3
+          },
+          "codecType": "h264",
+          "cover": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/osP0IcZRQDATrfWCpaFuBRqCLErgHBsxIAfSFE~tplv-tiktokx-origin.image?dr=14575&x-expires=1791957600&x-signature=VV3WzyIrskwP6jvyWT1Nnd2SqQo%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my",
+          "definition": "540p",
+          "downloadAddr": "",
+          "duration": 19,
+          "dynamicCover": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oQwIgEuBR0AIqArfF7ZxraTIfHTDEBFQcRCBZr~tplv-tiktokx-origin.image?dr=14575&x-expires=1791957600&x-signature=Aj4hOXPep54rmm5ObIWsLlRwjOM%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my",
+          "encodeUserTag": "",
+          "encodedType": "normal",
+          "format": "mp4",
+          "height": 1024,
+          "id": "7693745713209019649",
+          "originCover": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/o0jeGDhCAcHgdDmVk14LIosigC8ed3DLeAGWIj~tplv-tiktokx-origin.image?dr=14575&x-expires=1791957600&x-signature=xZ5KoccAXhbmC%2BLQvZPG11es1tY%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my",
+          "playAddr": "",
+          "ratio": "540p",
+          "size": 1019559,
+          "videoID": "v1c044g50000db2qq47og65n4fo2m7cg",
+          "videoQuality": "normal",
+          "volumeInfo": {
+            "Loudness": -14.2,
+            "Peak": 1
+          },
+          "width": 576,
+          "zoomCover": {
+            "240": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/osP0IcZRQDATrfWCpaFuBRqCLErgHBsxIAfSFE~tplv-photomode-zoomcover:240:240.jpeg?dr=14555&x-expires=1791957600&x-signature=WuE0SLll5LLU8MNxcJuLVu%2BxYHA%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my&ftpl=1",
+            "480": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/osP0IcZRQDATrfWCpaFuBRqCLErgHBsxIAfSFE~tplv-photomode-zoomcover:480:480.jpeg?dr=14555&x-expires=1791957600&x-signature=8gI00DmkbSUtV%2FnuxMUzJP8jKAM%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my&ftpl=1",
+            "720": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/osP0IcZRQDATrfWCpaFuBRqCLErgHBsxIAfSFE~tplv-photomode-zoomcover:720:720.jpeg?dr=14555&x-expires=1791957600&x-signature=n3o%2Ft0gqzNPmkhXz%2BEohQ%2FKbBIw%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my&ftpl=1",
+            "960": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/osP0IcZRQDATrfWCpaFuBRqCLErgHBsxIAfSFE~tplv-photomode-zoomcover:960:960.jpeg?dr=14555&x-expires=1791957600&x-signature=0teyjFIwrUOVAW2dfrRZubYz20A%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my&ftpl=1"
+          }
+        },
+        "_category_name": "Singing & Dancing",
+        "_category_id": 120
+      }
+    }
+  ]
+}

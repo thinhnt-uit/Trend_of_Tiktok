@@ -1,0 +1,52 @@
+version: 2
+
+models:
+  - name: dim_videos
+    description: "Dimension table containing unique TikTok video details, de-duplicated to the latest crawled instance."
+    columns:
+      - name: video_id
+        description: "Unique video ID."
+        tests:
+          - unique
+          - not_null
+      - name: video_format
+        description: "Derived content format (Review, Tutorial, Vlog, POV, Dance, General)."
+        tests:
+          - not_null
+      - name: creator_tier
+        description: "Derived creator tier (Nano, Micro, Macro, Mega)."
+        tests:
+          - not_null
+
+  - name: fact_video_performance
+    description: "Fact table recording daily snapshots of video engagement and virality metrics."
+    columns:
+      - name: performance_key
+        description: "Surrogate key generated via md5 of video_id and crawled_date."
+        tests:
+          - unique
+          - not_null
+      - name: video_id
+        description: "Foreign key to dim_videos."
+        tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_videos')
+                field: video_id
+      - name: crawled_date
+        description: "The date of the performance snapshot."
+        tests:
+          - not_null
+      - name: repost_count
+        description: "Number of video reposts."
+        tests:
+          - not_null
+      - name: engagement_rate
+        description: "Precalculated engagement rate at warehouse level."
+        tests:
+          - not_null
+      - name: virality_velocity
+        description: "Views per hour since creation."
+        tests:
+          - not_null

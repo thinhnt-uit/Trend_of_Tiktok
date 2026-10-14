@@ -1,0 +1,46 @@
+version: 2
+
+models:
+  - name: stg_explore_videos
+    description: "Staging model for organic TikTok Explore videos with parsed JSONB attributes."
+    columns:
+      - name: video_id
+        description: "The unique identifier of the video."
+        tests:
+          - not_null
+      - name: crawled_date
+        description: "The date when the video was crawled."
+        tests:
+          - not_null
+      - name: author_id
+        description: "The unique identifier of the video author."
+        tests:
+          - not_null
+      - name: play_count
+        description: "Number of plays."
+        tests:
+          - not_null
+      - name: like_count
+        description: "Number of likes."
+        tests:
+          - not_null
+      - name: repost_count
+        description: "Number of reposts."
+        tests:
+          - not_null
+      - name: category_name
+        description: "Category name associated with the explore tab."
+        tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values:
+                  - 'All'
+                  - 'Singing & Dancing'
+                  - 'Comedy'
+                  - 'Sports'
+                  - 'Anime & Comics'
+                  - 'Relationship'
+                  - 'Shows'
+                  - 'Daily Life'
+                  - 'Unknown'
